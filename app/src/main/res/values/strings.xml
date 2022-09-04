@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Pogoda</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="menu">Menu</string>
+    <string name="weather">Weather</string>
+    <string name="details">details</string>
+    <string name="forecast">forecast</string>
+    <string name="menuMenu">Menu</string>
+    <string name="weatherWeather">Weather</string>
+    <string name="detailsDetails">Details</string>
+    <string name="forecastForecast">Forecast</string>
+    <string name="weatherName">Nazwa</string>
+    <string name="update_data">Update data</string>
+    <string name="menuCityDef">Input city</string>
+    <string name="add_to_favorite">Add to favorite</string>
+    <string name="fav_temp">favorites</string>
+    <string name="deleteF">Delete</string>
+    <string name="clear_favorites_list">Clear Favorites List</string>
+
+    <string-array name="unit_systems">
+        <item>metric</item>
+        <item>SI</item>
+        <item>imperial</item>
+    </string-array>
+
+    <string-array name="fav_cities">
+    </string-array>
+
+</resources>
